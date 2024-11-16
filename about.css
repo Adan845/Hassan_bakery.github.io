@@ -1,0 +1,55 @@
+body{
+    background-color: #b3d696;
+}
+.logo{
+    text-align: center;
+}
+ul {
+    list-style: none;
+    border: 1px solid black;
+    background-color: black;
+    text-align: center;
+    
+}
+ul li {
+    display: inline-block;
+    padding: 20px;
+}
+ul li a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.about{
+    background-color: #b84c65;
+    padding: 20px;
+    border: 5px solid #AEDEFC;
+}
+.about-elements{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:#AEDEFC;
+}
+.about h1{
+    color: #AEDEFC;
+}
+.facebook-link {
+    
+    text-decoration: none;
+    color: #3b5998; /* Facebook blue */
+}
+.facebook-link img {
+    width: 40px; /* Adjust size as needed */
+    height: auto;
+    vertical-align: middle; /* Aligns the logo with text */
+}
+.social{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 25px;
+}
+.social-element{
+    font-size: 25px;
+    display: inline-block;
+}
